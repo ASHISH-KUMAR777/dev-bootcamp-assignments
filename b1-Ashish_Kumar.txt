@@ -1,0 +1,4 @@
+name: Ashish Kumar
+email: ashish.kumar.mec17@itbhu.ac.in
+branch: mec
+gender: male

@@ -1,0 +1,7 @@
+name: ASHISH KUMAR
+email: ashish.kumar.mec17@itbhu.ac.in
+assignment: 2
+github: https://github.com/ASHISH-KUMAR777/Tourism-based-website/blob/master/Assignment2.txt
+phone: 7348712158
+branch: mec
+gender: male
